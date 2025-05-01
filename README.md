@@ -118,8 +118,7 @@ The number of incentives assigned to a customer segment can easily be reduced to
 It is essentially the task of deleting some strings.<br>
 Further discussions with the Travel Tide marketing are necessary to refine the customer segmentation with regard to this.<br>
 AS model development is an ongoing communication process with the internal marketing customer this is a normal process.<br>
-Anyway it will be necessary to adapt the model further to the emerging marketing requirements, <br>
-especially when moving the model from development to production.
+Anyway it will be necessary to adapt the model further to the emerging marketing requirements, especially when moving the model from development to production.
 </p>
 
 
