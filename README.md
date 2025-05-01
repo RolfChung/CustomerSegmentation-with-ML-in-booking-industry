@@ -123,7 +123,7 @@ especially when moving the model from development to production.
 </p>
 
 
-<h2>Explaining the structure of the directory on Google Drive.<h2>
+<h2>Explaining the structure of the directory on Google Drive.</h2>
 
 <p>
 The main files and Colab notebooks are in the first level<br>
