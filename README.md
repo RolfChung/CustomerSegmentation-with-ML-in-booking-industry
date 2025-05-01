@@ -1,9 +1,10 @@
 # CustomerSegmentation-with-ML-in-booking-industry
 Full project on: https://drive.google.com/drive/folders/1lEWgIKNPYTTLPyivwRB9YWVMZsD-Whw2?usp=sharing
 
+<p>
 This is only the README file. The full project including notebooks and files is accessed by the hyperlink above.
-
-<h1>Summary</h2>
+</p>
+<h1>Summary</h1>
 
 
 <p>
