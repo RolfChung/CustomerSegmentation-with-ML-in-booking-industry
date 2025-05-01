@@ -121,11 +121,7 @@ Anyway it will be necessary to adapt the model further to the emerging marketing
 especially when moving the model from development to production.
 </p>
 
-<p>
-<ul>
-<li>8_Customer_Segmentation_Final_Travel</li>
-</ul>
-</p>
+
 <h2>Explaining the structure of the directory on Google Drive.<h2>
 
 <p>
